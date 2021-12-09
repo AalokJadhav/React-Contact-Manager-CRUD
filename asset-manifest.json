@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Contact-Manager-CRUD/static/css/main.ba216dbe.chunk.css",
+    "main.js": "/React-Contact-Manager-CRUD/static/js/main.a9140b1e.chunk.js",
+    "main.js.map": "/React-Contact-Manager-CRUD/static/js/main.a9140b1e.chunk.js.map",
+    "runtime-main.js": "/React-Contact-Manager-CRUD/static/js/runtime-main.1867a57f.js",
+    "runtime-main.js.map": "/React-Contact-Manager-CRUD/static/js/runtime-main.1867a57f.js.map",
+    "static/js/2.cd0912b1.chunk.js": "/React-Contact-Manager-CRUD/static/js/2.cd0912b1.chunk.js",
+    "static/js/2.cd0912b1.chunk.js.map": "/React-Contact-Manager-CRUD/static/js/2.cd0912b1.chunk.js.map",
+    "index.html": "/React-Contact-Manager-CRUD/index.html",
+    "static/css/main.ba216dbe.chunk.css.map": "/React-Contact-Manager-CRUD/static/css/main.ba216dbe.chunk.css.map",
+    "static/js/2.cd0912b1.chunk.js.LICENSE.txt": "/React-Contact-Manager-CRUD/static/js/2.cd0912b1.chunk.js.LICENSE.txt",
+    "static/media/user.485504ff.jpg": "/React-Contact-Manager-CRUD/static/media/user.485504ff.jpg",
+    "static/media/user.d54b5cea.png": "/React-Contact-Manager-CRUD/static/media/user.d54b5cea.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1867a57f.js",
+    "static/js/2.cd0912b1.chunk.js",
+    "static/css/main.ba216dbe.chunk.css",
+    "static/js/main.a9140b1e.chunk.js"
+  ]
+}
