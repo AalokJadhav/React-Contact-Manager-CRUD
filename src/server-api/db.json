@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "7ad139a7-6ff4-468e-ab4c-fabdd4684b34",
+      "name": "Alok",
+      "email": "alok@gmail.com"
+    },
+    {
+      "id": "5c6f69cf-843b-4b71-8432-3c35ede4a83c",
+      "name": "test1",
+      "email": "test1@gmail.com"
+    },
+    {
+      "id": "4899ae6f-f600-4328-9fcc-3ca43d74385b",
+      "name": "user",
+      "email": "user@gmail.com"
+    },
+    {
+      "id": "585bd177-4529-425c-94fa-11d241038171",
+      "name": "Sara",
+      "email": "saraalikhan@gmail.com"
+    },
+    {
+      "id": "0de9dfbf-0d30-43a6-af48-862f5217f6f3",
+      "name": "Admin",
+      "email": "admin123@gmail.com"
+    }
+  ]
+}
